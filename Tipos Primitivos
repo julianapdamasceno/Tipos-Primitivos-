@@ -1,0 +1,15 @@
+/*
+ * Declare e atribua o valor de cada váriável a partir da linha 34.
+ * Variáveis: meuTamanho, corDaMinhaCamisa, queroEstudarNaTrybe, computadorLigado
+ * e a constante PI
+ */
+ 
+ 
+ var meuTamanho =165;
+ var PI =10;
+ var corDaMinhaCamisa ="azul";
+ var queroEstudarNaTrybe = true;
+ var computadorLigado = false;
+ 
+ 
+  // fim do seu código
